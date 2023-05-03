@@ -1,8 +1,8 @@
 {
-  "name": "template-react-webpack",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "cra-template-react-webpack-ndk",
+  "version": "1.0.1",
+  "description": "React with webpack custom",
+  "main": "template.json",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
@@ -17,8 +17,12 @@
     "type": "git",
     "url": "git+https://github.com/nguyenduykhoa2601/template-react-webpack.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "webpack",
+    "template"
+  ],
+  "author": "Nguyen Duy Khoa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nguyenduykhoa2601/template-react-webpack/issues"
